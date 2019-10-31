@@ -1,0 +1,2 @@
+D:\PENS\Unity Project\Tugas Mekanika Game\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\PENS\Unity Project\Tugas Mekanika Game\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
